@@ -1,4 +1,4 @@
-#source ~/ucla_ws/src/ucla_husky/ucla_husky_bringup/scripts/setup.bash
+#source ~/ucla_ws/src/ucla_husky/ucla_husky_bringup/scripts/setup.bash   #ucla_ws is a folder name
 
 #--Dual-Arm----
 #export HUSKY_URDF_EXTRAS=$(catkin_find husky_ur_description urdf/husky_dual_ur5_e_description.urdf.xacro --first-only)
