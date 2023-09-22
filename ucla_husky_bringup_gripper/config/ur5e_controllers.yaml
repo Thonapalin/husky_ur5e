@@ -34,6 +34,7 @@ joint_group_pos_controller:
     - ur_arm_wrist_2_joint
     - ur_arm_wrist_3_joint
 
+##--Add Gripper--
 robotiq_controller:
   type: position_controllers/JointTrajectoryController
   joints: 
